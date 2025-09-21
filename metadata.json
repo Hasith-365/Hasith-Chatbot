@@ -1,0 +1,5 @@
+{
+  "name": "Hasith Chatbot",
+  "description": "A sleek and responsive chatbot application powered by the Gemini API, featuring real-time streaming responses for an interactive user experience.",
+  "requestFramePermissions": []
+}
